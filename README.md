@@ -1,4 +1,4 @@
-﻿# BlcKEY Core
+﻿#  BLCKey Core
 
 **BlcKEY Core** is the foundational component of the innovative Web3 authentication platform **[BlcKEY.com](https://blckey.com)**, based on the **Taler (TLR)** blockchain. The platform enables secure, anonymous authentication to Web3 services without passwords, emails, or KYC—using only QR codes and cryptographic signatures.
 
